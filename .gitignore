@@ -1,4 +1,6 @@
-# logs / previews / LeRobot temp frame dumps
-*.log
-*_recolor_preview/
+# Only the original recording and the combined training set are tracked.
+/tataro/*
+!/tataro/record_cube001_20261106/
+!/tataro/record_cube001_20261106_all/
+# LeRobot temp frame dumps
 */*/images/
