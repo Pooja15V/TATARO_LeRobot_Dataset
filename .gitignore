@@ -1,6 +1,8 @@
-# Only the original recording and the combined training set are tracked.
+# Tracked: the original recordings and the training sets (intermediate _table sets and splits are regenerated).
 /tataro/*
 !/tataro/record_cube001_20261106/
 !/tataro/record_cube001_20261106_all/
+!/tataro/record_zone001_20261110/
+!/tataro/record_tataro_v2_table/
 # LeRobot temp frame dumps
 */*/images/
